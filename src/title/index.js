@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import './index.css';
 
-export default class Title extends React.Component {
+export default class Title extends PureComponent {
   render() {
     return (
       <div className="div-title">

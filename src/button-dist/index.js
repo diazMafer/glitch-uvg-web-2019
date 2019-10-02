@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import './style.css';
 
-export default class DiscButton extends Component {
+export default class DiscButton extends PureComponent {
   render () {
     return (
       <div className="install">

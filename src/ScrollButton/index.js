@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import './style.css';
 
-export default class ScrollButton extends Component {
+export default class ScrollButton extends PureComponent {
   constructor () {
     super();
     this.state = {
