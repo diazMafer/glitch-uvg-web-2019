@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 
-require('./style.css')
+require('./button-dist//style.css')
 
 export default class Robot extends PureComponent {
   render() {

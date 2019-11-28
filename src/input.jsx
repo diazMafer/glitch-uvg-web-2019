@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './style.css'
+import './button-dist/style.css'
 
 export default class Input extends Component {
   constructor(props) {

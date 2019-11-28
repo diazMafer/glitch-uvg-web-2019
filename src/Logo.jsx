@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import './index.css'
+import './button-dist/index.css'
 
 class Logo extends PureComponent {
   render() {

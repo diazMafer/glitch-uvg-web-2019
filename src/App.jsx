@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './style.css'
+import './button-dist/style.css'
 import ScrollButton from './ScrollButton'
 import Background from './Background'
 import Input from './input'
