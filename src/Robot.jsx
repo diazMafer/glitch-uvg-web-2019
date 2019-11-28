@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 
-require('./cuadro.css')
+require('./style.css')
 
 export default class Robot extends PureComponent {
   render() {

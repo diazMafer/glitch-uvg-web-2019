@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import './Slide.css'
+import './style.css'
 import PropTypes from 'prop-types'
 
 class Slide extends PureComponent {

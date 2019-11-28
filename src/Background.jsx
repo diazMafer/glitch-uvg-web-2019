@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import './App.css'
+import './style.css'
 import PropTypes from 'prop-types'
 
 export default class Background extends PureComponent {

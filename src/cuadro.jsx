@@ -4,7 +4,7 @@ import Robot from './Robot'
 import DataInfo from './DataInfo'
 import DiscButton from './button-dist/index'
 
-require('./cuadro.css')
+require('./style.css')
 
 export default class Cuadro extends React.PureComponent {
   render() {
